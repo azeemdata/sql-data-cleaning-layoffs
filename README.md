@@ -23,4 +23,7 @@ This project focuses on cleaning and preparing a global layoffs dataset using SQ
 - Window functions  
 - Joins and self-joins  
 - Date transformations  
-- Writing clear, reusable SQL queries  
+- Writing clear, reusable SQL queries
+
+- ## 📂 Project Files
+- [Data Cleaning SQL Script](sql/data_cleaning.sql)
