@@ -25,5 +25,5 @@ This project focuses on cleaning and preparing a global layoffs dataset using SQ
 - Date transformations  
 - Writing clear, reusable SQL queries
 
-- ## 📂 Project Files
+- ## 📂 Project File
 - [Data Cleaning SQL Script](sql/data_cleaning.sql)
